@@ -12,8 +12,17 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      screens: {
+        sm: "481px",
+        md: "769px",
+        lg: "1025px",
+        xl: "1441px",
+      }
     },
   },
-  plugins: [],
+  plugins: [
+    require("flyonui"),
+    require("flyonui/plugin") // Require only if you want to use FlyonUI JS component
+  ],
 };
 export default config;
