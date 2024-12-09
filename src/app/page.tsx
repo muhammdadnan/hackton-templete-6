@@ -1,4 +1,3 @@
-
 import Navbar from "./Component/Navbar";
 import Hero from "./Component/Hero";
 import BrowserRange from "./Component/BrowserRange";
@@ -10,13 +9,13 @@ import Footer from "./Component/Footer";
 export default function Home() {
   return (
     <div>
-     <Navbar />
-     <Hero />
-     <BrowserRange />
-     <OurProduct />
-     <Inspirations />
-     <Share />
-     <Footer />
+      <Navbar />
+      <Hero />
+      <BrowserRange />
+      <OurProduct />
+      <Inspirations />
+      <Share />
+      <Footer />
     </div>
   );
 }
