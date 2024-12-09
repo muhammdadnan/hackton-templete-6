@@ -1,8 +1,8 @@
 "use client";
 
 import React from "react";
-import Image from "next/image";
-import OurProductImg from "./../Assets/OurProducts.png";
+// import Image from "next/image";
+// import OurProductImg from "./../Assets/OurProducts.png";
 import { Icon } from "@iconify/react";
 
 const products = [

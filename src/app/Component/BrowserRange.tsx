@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import BrowerRange from './../Assets/Browse-range.png'
+// import BrowerRange from './../Assets/Browse-range.png'
 import Picture1 from './../Assets/Picture-1.png'
 import Picture2 from './../Assets/Picture-2.png'
 import Picture3 from './../Assets/Picture-3.png'
